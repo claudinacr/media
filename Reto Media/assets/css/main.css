@@ -1,0 +1,56 @@
+.videoOne {
+    width: 100%;
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+}
+
+.row .col {
+    float: left;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    min-height: 1px;
+}
+
+
+nav {
+    background-color: #70A9CE;
+}
+
+
+
+
+
+.box{
+    border: 5px orange solid;
+}
+
+.gameColor{
+    display: flex;
+}
+
+
+.center a{
+    text-align: center;
+    background-color: #6AA3D0;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+
+.responsive-video{
+    padding-top: 0.25em;
+}
+
+.boxM{
+    text-align: center;
+}
+
+.btn-large{
+    background-color: #6aa3d0;
+}
+
+p{
+    display: inline;
+}
